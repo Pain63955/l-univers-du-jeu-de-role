@@ -1,4 +1,4 @@
-<img src="images/chevalier.jpg" alt="Éditer sur GitLab" width="100px"/>
+<img src="image/chevalier.jpg" alt="Éditer sur GitLab" width="100px"/>
 
 # **Aventure**
 
