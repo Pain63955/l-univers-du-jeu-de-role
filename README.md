@@ -1,13 +1,19 @@
-# Mon Site Web
+<img src="images/chevalier.jpg" alt="Éditer sur GitLab" width="100px"/>
 
-Bienvenue sur mon site web ! Ce projet contient divers fichiers et ressources pour présenter mes travaux ou informations pertinentes.
+# **Aventure**
 
-## Contenu du Répertoire
+Bienvenue sur notre site web ! Ce projet contient divers fichiers et ressources pour présenter nos travaux ou informations pertinentes.
 
-- **index.html:** La page d'accueil du site.
-- **styles.css:** Le fichier de style CSS pour le site.
-- **images/:** Répertoire contenant les images utilisées.
-- **docs/:** Documentation ou autres fichiers pertinents.
+## Contenu des Répertoires
+
+* répertoire
+  * images: contient les images utilisé par le site (toutes les images sont stockées en internes)
+* fichiers
+  * **index.html**: page d'acceuil de notre site web
+  * **actus**: page d'actualité du site contient toutes les dernières nouvelles de celui-ci
+  * articles publié
+      * test
+
 
 ## Comment Contribuer
 
